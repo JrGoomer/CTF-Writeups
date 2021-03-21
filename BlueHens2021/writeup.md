@@ -57,7 +57,7 @@ FLAG: UDCTF{7R4NSPOS3_7HE_COLUMNS}
 I unencrypted the PHPSESSID value:
 ![image](https://user-images.githubusercontent.com/29373869/111913563-a9807f00-8a66-11eb-8c97-ba2bc9bda6b4.png)
 
-Changed the cookie value and got voilá!
+Changed the cookie value and voilá!
 
 FLAG: ![speedrun1](https://user-images.githubusercontent.com/29373869/111914652-bacb8a80-8a6a-11eb-9293-3961bef412e9.png)
 
