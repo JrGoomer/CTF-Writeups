@@ -1,4 +1,4 @@
-#PikCha
+# PikCha
 
 
 Once we visit the page we get this:
@@ -37,16 +37,18 @@ from selenium.webdriver.common.by import By
 url = 'http://34.121.84.161:8084'
 api= 'https://pokeapi.co/api/v2/pokemon/?limit=1000'
 
-driver = webdriver.Chrome()  # Optional argument, if not specified will search path.
+#Open chrome and go to the challenge page
+driver = webdriver.Chrome()
 
 driver.get(url)
 
 time.sleep(1) # Let the user actually see something!
 
+#Get a json with all the pokemons infomation
 rPokemon = requests.get(api)
 
 
-
+#Decodes the cookie and gets the pokemon name 500 times
 for x in range(501):
 
 	session_cookie = driver.get_cookie('session')["value"]
