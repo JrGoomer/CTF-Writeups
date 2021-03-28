@@ -4,15 +4,20 @@
 Once we visit the page we get this:
 
 
+![PikCha](https://user-images.githubusercontent.com/29373869/112759986-53bf5000-8fed-11eb-9b48-8d97d903cc41.png)
+
 
 I started looking around and saw something interesting with the cookies :D
+
+
+![PikCha2](https://user-images.githubusercontent.com/29373869/112760002-5e79e500-8fed-11eb-8c7b-a1f40b304965.png)
 
 
 I wonder what are those values?!
 After googling, I discovered that each of those values represent the ID of one pokemon and if you look at the values,they match the pokemons on the picture!
 So I created a python script.
 
-"""
+```
 import time
 
 import jwt
@@ -69,7 +74,7 @@ for x in range(501):
 
 
 
-"""
+```
 
 
 FLAG=UMASS{G0tt4_c4tch_th3m_4ll_17263548}
