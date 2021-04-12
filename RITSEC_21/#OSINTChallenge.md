@@ -11,7 +11,9 @@ Her Twitter backround image is this sign peace:
 ![1500x500](https://user-images.githubusercontent.com/29373869/114356240-487d3000-9b68-11eb-81a3-a434c5706d83.jpg)
 
 They also give a clue that she likes LOCAL nature...
-I inittialy thought it was on the other side of Rochester because of some plates that seemed like the one in the picture:
+I inittialy thought it was on the other side of Rochester because of some plates that seemed like the one in this picture:<br />
+
+
 ![image](https://user-images.githubusercontent.com/29373869/114356663-cccfb300-9b68-11eb-951b-6ed89d56715d.png)
 
 But I googled on Google Maps "peace" and found it!
